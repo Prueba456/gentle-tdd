@@ -1,0 +1,22 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "ejercicio tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "c"
+  ],
+  "author": "c",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betsiana/gentle-tdd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/betsiana/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/betsiana/gentle-tdd#readme"
+}
